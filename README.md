@@ -1,2 +1,2 @@
-# 📓🗜️ notebook_letterpress
+# 📓🗜️ Notebook Letterpress
 Jupyter notebook templates, fresh off the letterpress.
